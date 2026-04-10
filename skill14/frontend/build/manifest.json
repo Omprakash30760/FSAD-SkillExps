@@ -1,0 +1,9 @@
+{
+  "short_name": "Skill14",
+  "name": "Skill 14 Auth App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#f3f4f6"
+}
