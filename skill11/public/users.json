@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Mehta",
+    "email": "aarav.mehta@example.com",
+    "phone": "+91-98765-10001"
+  },
+  {
+    "id": 2,
+    "name": "Diya Sharma",
+    "email": "diya.sharma@example.com",
+    "phone": "+91-98765-10002"
+  },
+  {
+    "id": 3,
+    "name": "Ishaan Verma",
+    "email": "ishaan.verma@example.com",
+    "phone": "+91-98765-10003"
+  },
+  {
+    "id": 4,
+    "name": "Kavya Nair",
+    "email": "kavya.nair@example.com",
+    "phone": "+91-98765-10004"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Kulkarni",
+    "email": "rohan.kulkarni@example.com",
+    "phone": "+91-98765-10005"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "email": "sneha.patel@example.com",
+    "phone": "+91-98765-10006"
+  }
+]
